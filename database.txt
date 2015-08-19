@@ -1,0 +1,3 @@
+
+Hello World As A Learning Tool
+Hello World, while often the first program introduced in an introductory programming text, is actually not aimed at teaching the language at all. It's about teaching the programmer how to configure their environment. Once Hello World has been achieved, actual learning of the language can begin. The following are some suggested starting points:
